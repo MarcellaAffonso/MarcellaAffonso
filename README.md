@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou a Marcella Affonso 👋
 
-<!--
-**MarcellaAffonso/MarcellaAffonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduada em Ciência da Computação e atualmente pós-graduanda em Ciência de Dados.
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formada em Ciência da Computação e atualmente estou me especializando em Ciência de Dados. Tenho interesse em análise de dados, visualização de informações e identificação de padrões para auxiliar na tomada de decisões.
+
+## 🛠️ Conhecimentos técnicos
+
+- **Análise de Dados**
+- **Power BI:** Avançado
+- **SQL:** Avançado
+- **Python:** Intermediário
+- **Excel:** Intermediário
+- **Pacote Office**
+- **Lógica de Programação**
+
+## 📚 Atualmente estudando
+
+Aprofundando meus conhecimentos em Ciência de Dados, análise, visualização e interpretação de informações.
+
+## 🎯 Objetivo profissional
+
+Desenvolver projetos práticos, aprimorar minhas habilidades técnicas e construir minha trajetória profissional na área de dados.
+
+---
+
+✨ Seja bem-vindo(a) ao meu GitHub!
