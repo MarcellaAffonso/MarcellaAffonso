@@ -1,10 +1,10 @@
 # Olá! Eu sou a Marcella Affonso 👋
 
-🎓 Graduada em Ciência da Computação e atualmente pós-graduanda em Ciência de Dados.
+🎓 Graduada em Ciência da Computação e atualmente pós-graduanda em Data Science.
 
 ## 👩‍💻 Sobre mim
 
-Sou formada em Ciência da Computação e atualmente estou me especializando em Ciência de Dados. Tenho interesse em análise de dados, visualização de informações e identificação de padrões para auxiliar na tomada de decisões.
+Sou formada em Ciência da Computação e atualmente estou me especializando em Data Science. Tenho interesse em análise de dados, visualização de informações e identificação de padrões para auxiliar na tomada de decisões.
 
 ## 🛠️ Conhecimentos técnicos
 
